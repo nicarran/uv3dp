@@ -32,7 +32,7 @@ const (
 	defaultBottomLightOff   = 1.0
 	defaultLightOff         = 1.0
 
-	forceBedSizeMM_3 = 155.0
+	forceBedSizeMM_3 = 140.0
 )
 
 type ctbHeader struct {
