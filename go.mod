@@ -3,7 +3,7 @@ module github.com/nicarran/uv3dp
 go 1.13
 
 require (
-	github.com/ezrec/uv3dp v1.2.11
+	github.com/ezrec/uv3dp v1.2.13
 	github.com/go-restruct/restruct v0.0.0-20191227155143-5734170a48a1
 	github.com/google/go-cmp v0.4.0
 	github.com/spf13/pflag v1.0.5
