@@ -1,4 +1,4 @@
-module github.com/ezrec/uv3dp
+module github.com/nicarran/uv3dp
 
 go 1.13
 
