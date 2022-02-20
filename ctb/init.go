@@ -6,7 +6,7 @@
 package ctb
 
 import (
-	"github.com/ezrec/uv3dp"
+	"github.com/nicarran/uv3dp"
 )
 
 var (

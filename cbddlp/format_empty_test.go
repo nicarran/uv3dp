@@ -13,7 +13,7 @@ import (
 
 	"testing"
 
-	"github.com/ezrec/uv3dp"
+	"github.com/nicarran/uv3dp"
 	"github.com/google/go-cmp/cmp"
 )
 

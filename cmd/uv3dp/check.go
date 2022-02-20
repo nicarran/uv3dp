@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ezrec/uv3dp"
+	"github.com/nicarran/uv3dp"
 )
 
 type checkModifier struct {

@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/ezrec/uv3dp"
+	"github.com/nicarran/uv3dp"
 	"github.com/spf13/pflag"
 )
 
