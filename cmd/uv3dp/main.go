@@ -265,6 +265,8 @@ func argExpand(in []string) (out []string, err error) {
 }
 
 func main() {
+	fmt.Println("hello")
+
 	var err error
 	os.Args, err = argExpand(os.Args)
 	if err != nil {
